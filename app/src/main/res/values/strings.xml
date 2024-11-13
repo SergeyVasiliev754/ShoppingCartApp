@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ShoppingCartApp</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_activity_cart">CartActivity</string>
+    <string name="product_image_desc">Описание продукта</string>
+    <string name="remove_product">Удалить продукт</string>
+    <string name="product_image">Изображение продукта</string>
+    <string name="title_activity_order">OrderActivity</string>
+    <string name="title_activity_checkout_activity.kt">CheckoutActivity.kt</string>
+</resources>
